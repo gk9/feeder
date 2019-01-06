@@ -1,0 +1,23 @@
+.thumper {
+  width: 90%;
+  height: 90%;
+  max-width: 90vh;
+  border-radius: 10%;
+  background-color: silver;
+  max-height: 90vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Menlo';
+
+  .thumperValue {
+    font-size: 30vmin;
+    color: #fff;
+  }
+}
