@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import styles from './FeedButton.module.scss';
+import styles from './FeedButton.module.css';
 
 
 let t = 0, interval;

@@ -15,9 +15,9 @@
   align-items: center;
   justify-content: center;
   font-family: 'Menlo';
+}
 
-  .thumperValue {
-    font-size: 30vmin;
-    color: #fff;
-  }
+.thumperValue {
+  font-size: 30vmin;
+  color: #fff;
 }
